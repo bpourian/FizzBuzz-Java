@@ -2,6 +2,12 @@ package com.company.fizzbuzz;
 
 public class FizzBuzzConverter {
     public String convert(int toConvertToFizzBuzz) {
-        return "1";
+
+        if (toConvertToFizzBuzz % 3 == 0){
+            return "Fizz";
+        } else if (toConvertToFizzBuzz % 5 == 0){
+            return "Buzz";
+        }
+        return String.valueOf(toConvertToFizzBuzz);
     }
 }

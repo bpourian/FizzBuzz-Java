@@ -12,5 +12,19 @@ public class FizzBuzzTest {
         Assert.assertEquals("2", fizzbuzz.convert(2));
     }
 
+    @Test
+    public void FizzBuzzConverterMultiplesOfThree(){
+        FizzBuzzConverter fizzbuzz = new FizzBuzzConverter();
+
+        Assert.assertEquals("Fizz", fizzbuzz.convert(3));
+    }
+
+    @Test
+    public void FizzBuzzConverterMultiplesOfFive(){
+        FizzBuzzConverter fizzbuzz = new FizzBuzzConverter();
+
+        Assert.assertEquals("Buzz", fizzbuzz.convert(5));
+    }
+
 
 }
