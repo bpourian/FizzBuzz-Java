@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a41e1b1-04b6-4d0a-aff9-69de0c3352cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/FizzBuzzTestActual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FizzBuzz-Java/FizzBuzzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FizzBuzz-Java/FizzBuzzTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FizzBuzz-Java/com/company/fizzbuzz/FizzBuzzConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FizzBuzz-Java/com/company/fizzbuzz/FizzBuzzConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/fizzbuzz/FizzBuzzConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/fizzbuzz/FizzBuzzConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,14 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTestActual.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzTestActual.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/FizzBuzzTestActual.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -79,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/test/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/fizzbuzz/FizzBuzzConverter.java" />
         <option value="$PROJECT_DIR$/src/test/FizzBuzzTestActual.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -262,9 +267,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2018.05.29 at 21h 37m 21s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.05.29 at 21h 40m 46s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -291,6 +293,9 @@
     </history-entry>
     <history-entry file="FizzBuzzTest - 2018.05.29 at 21h 53m 29s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTestActual_OutPutTesForFizzBuzz - 2018.05.29 at 22h 00m 12s.xml">
+      <configuration name="FizzBuzzTestActual.OutPutTesForFizzBuzz" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -355,11 +360,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/FizzBuzzTestActual.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
         </state>
       </provider>
     </entry>
